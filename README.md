@@ -1,1 +1,2 @@
 # GeoFlame
+GeoFlame is an open-source app dedicated to monitoring active wildfire sites and heat map intensity at such sites. Imagery from landsat satellites such as the Tera and Aqua from N.A.S.A are utilized to pinpoint active sites and the most destructive hot zones. 
